@@ -1,4 +1,3 @@
-# In this repo you will find instructions How to upload excel file to Azure PostgreSQL DB
 # PostgreSQL Database on Azure and Excel Data Upload
 
 This guide provides a step-by-step process to create a PostgreSQL database in Azure and upload data from an Excel file to it.
