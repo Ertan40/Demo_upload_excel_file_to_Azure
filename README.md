@@ -41,3 +41,25 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas psycopg2-binary sqlalchemy openpyxl
+```
+### 2.2 Python Script to Read Excel File and Upload Data
+
+Use the following (1.2) Python script to read data from an Excel file and upload it to the PostgreSQL database in Azure.
+
+### 2.3 Python Script to query data in Azure to confrim it was successful
+
+Use the following (1.3) Python script to read data from the PostgreSQL database in Azure.
+
+### 2.4 Notes
+Ensure the Excel file's path is correct and the data structure matches the PostgreSQL table structure.
+Modify the script to handle different table names and data transformations as needed.
+### Summary
+Create an Azure PostgreSQL database using the Azure Portal.
+Install required Python libraries.
+Use the provided Python script to read data from an Excel file and upload it to your PostgreSQL database.
+For more information on Azure PostgreSQL and Python libraries, refer to the Azure PostgreSQL Documentation and SQLAlchemy Documentation.
+
+```css
+This `README.md` provides clear instructions for creating a PostgreSQL database in Azure and uploading data from an Excel file. Adjust the script and instructions according to your specific requirements and environment.
+```
+
